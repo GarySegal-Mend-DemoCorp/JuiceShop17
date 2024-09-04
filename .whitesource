@@ -4,6 +4,6 @@
     "enableIaC" : false
   },
   "scanSettingsSAST": {
-    "enableScan": false
+    "enableScan": true
   }
 }
